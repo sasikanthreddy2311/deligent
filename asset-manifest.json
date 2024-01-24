@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/deligent/static/css/main.89dcab1b.css",
+    "main.js": "/deligent/static/js/main.717389dd.js",
+    "static/js/787.d4aba7ab.chunk.js": "/deligent/static/js/787.d4aba7ab.chunk.js",
+    "static/media/hero-image.png": "/deligent/static/media/hero-image.229a03d7126599011dfb.png",
+    "static/media/customer-quote.png": "/deligent/static/media/customer-quote.d70eae475339bbcdfdbb.png",
+    "static/media/product-3.png": "/deligent/static/media/product-3.f2f48e33224a7ccdab05.png",
+    "static/media/product-2.png": "/deligent/static/media/product-2.bd16949e31ddb65045e1.png",
+    "static/media/product-1.png": "/deligent/static/media/product-1.56aa4129f88ba771eab7.png",
+    "static/media/Epiroc.svg": "/deligent/static/media/Epiroc.80b3d2855637b269e24d0eeeacf1b962.svg",
+    "static/media/mainBackground.png": "/deligent/static/media/mainBackground.dbf81adac10216b6e399.png",
+    "static/media/compliance5.svg": "/deligent/static/media/compliance5.00cb4745e6dc12982de331cfcf574f2e.svg",
+    "static/media/Rectangle95.png": "/deligent/static/media/Rectangle95.951e4564dd2e39f7e0ad.png",
+    "static/media/Intertek svg.svg": "/deligent/static/media/Intertek svg.19938b491c7815bbba7f937306e98200.svg",
+    "static/media/compliance4.svg": "/deligent/static/media/compliance4.ad24ea6906322cdf19cd5f548aa74eaf.svg",
+    "static/media/compliance1.svg": "/deligent/static/media/compliance1.b333eb975bab7805bbeac5fe45dab843.svg",
+    "static/media/compliance6.svg": "/deligent/static/media/compliance6.336184b37b53eab3c5ce03af3c80203a.svg",
+    "static/media/compliance3.svg": "/deligent/static/media/compliance3.1444db3842066dfa124fe7a3f806ac80.svg",
+    "static/media/Coca-Cola svg.svg": "/deligent/static/media/Coca-Cola svg.4439c7ffd617d4a3bc0c1511fd72ed9a.svg",
+    "static/media/General Mills svg.svg": "/deligent/static/media/General Mills svg.4e9b4b63010540a9a93cc1db2701005e.svg",
+    "static/media/Campari svg.svg": "/deligent/static/media/Campari svg.2847eee242d992f8bf093f4f43d0037b.svg",
+    "static/media/compliance2.svg": "/deligent/static/media/compliance2.d10136d3519795c8a96327de6bdb8462.svg",
+    "static/media/stats1.svg": "/deligent/static/media/stats1.f7f1acb5f4509359af57b50e8ff29a4a.svg",
+    "static/media/Group.svg": "/deligent/static/media/Group.357f2e55ec9fa7a2a570409d1094acc5.svg",
+    "static/media/support.svg": "/deligent/static/media/support.b4d5f47e9f681371a77992029e00748b.svg",
+    "index.html": "/deligent/index.html",
+    "static/media/stats4.svg": "/deligent/static/media/stats4.c774c199fd010b05b40c0ebdfa6d17f5.svg",
+    "static/media/Capterra svg.svg": "/deligent/static/media/Capterra svg.cbb714b8bc7ea79909ff45a1271f4ac4.svg",
+    "static/media/stats2.svg": "/deligent/static/media/stats2.300f3af323f66ccc9a389c5838d999fd.svg",
+    "static/media/stats3.svg": "/deligent/static/media/stats3.edf066dee035e6f112fed383ae88588c.svg",
+    "static/media/security.svg": "/deligent/static/media/security.17cfcd69b7665190d33cdf31ae8267f1.svg",
+    "static/media/Rectangle23.svg": "/deligent/static/media/Rectangle23.02b501fdb8ec59be00a67b6f8c9587c6.svg",
+    "static/media/Rectangle122.svg": "/deligent/static/media/Rectangle122.0c09fdc32a336c0f65b4054846357fd4.svg",
+    "main.89dcab1b.css.map": "/deligent/static/css/main.89dcab1b.css.map",
+    "main.717389dd.js.map": "/deligent/static/js/main.717389dd.js.map",
+    "787.d4aba7ab.chunk.js.map": "/deligent/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dcab1b.css",
+    "static/js/main.717389dd.js"
+  ]
+}
